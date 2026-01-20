@@ -42,6 +42,11 @@ We will add a `Dockerfile` to the `cd` branch. The `Dockerfile` contains a set o
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
+<!--
+  <<< Author notes: Footer >>>
+  Add a link to get support, GitHub status page, code of conduct, license link.
+-->
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/publish-packages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
